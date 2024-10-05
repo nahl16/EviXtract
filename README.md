@@ -50,3 +50,7 @@ To use different features of EvixTract, refer to the following commands:
 
 -	**Full Workflow:**
   `python main.py --acquire --device mydisk.dd --output test.img --imaging --analyze --extract-metadata`
+
+---
+Stay tuned more such Tools! GRACIAS ^^
+---
